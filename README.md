@@ -1,1 +1,1 @@
-# bettingGame
+# Betting Game
